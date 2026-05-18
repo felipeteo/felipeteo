@@ -1,16 +1,18 @@
-## Hi there 👋
+# Olá, eu sou o [Seu Nome] 👋
 
-<!--
-**felipeteo/felipeteo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um desenvolvedor em transição de carreira / iniciante focado em **Desenvolvimento Backend com C# e .NET**. Atualmente estou construindo minha base técnica para criar APIs robustas e escaláveis.
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias e Ferramentas
+- **Linguagem:** C# (.NET 8)
+- **Backend:** ASP.NET Core, Web APIs (em aprendizado)
+- **Banco de Dados:** SQL Server / Entity Framework
+- **Ferramentas:** Visual Studio, Git, GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projetos em Destaque
+*(Seus projetos vão aparecer aqui conforme você os criar. Exemplo abaixo:)*
+- **[Nome do Projeto]**: Uma API simples de CRUD para controle de estoque. (Em breve)
+
+## ✉️ Contato
+- LinkedIn: [link-para-seu-linkedin]
+- E-mail: [seu-email@email.com]
+
