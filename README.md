@@ -9,7 +9,7 @@ Sou um desenvolvedor em transição de carreira / iniciante focado em **Desenvol
 - **Ferramentas:** Visual Studio, Git, GitHub
 
 ## 📂 Projetos em Destaque
-- [Lógica C# - Primeiros Passos](https://github.com): Pequeno programa que calcula idade e valida maioridade, exercitando entrada de dados e estruturas condicionais.
+- [Lógica C# - Primeiros Passos](https://github.com/felipeteo/LogicaCsharp-PrimeirosPassos): Pequeno programa que calcula idade e valida maioridade, exercitando entrada de dados e estruturas condicionais.
 
 
 ## ✉️ Contato
