@@ -8,8 +8,8 @@ Sou um desenvolvedor em transição de carreira / iniciante focado em **Desenvol
 - **Banco de Dados:** SQL Server / MySQL
 - **Ferramentas:** Visual Studio, Git, GitHub
 
-## 📂 Projetos em Destaque
-- **[Nome do Projeto]**: Uma API simples de CRUD para controle de estoque. (Em breve)
+## 📂 LógicaCsharp-PrimeirosPassos
+- Este é meu primeiro programa em C#. Ele exercita conceitos de entrada e saída de dados, variáveis, conversão de tipos (Parse), manipulação de datas e estruturas condicionais."
 
 ## ✉️ Contato
 - LinkedIn: https://www.linkedin.com/in/felipe-teodoro-16225428b/
