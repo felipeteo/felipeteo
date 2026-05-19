@@ -8,8 +8,9 @@ Sou um desenvolvedor em transição de carreira / iniciante focado em **Desenvol
 - **Banco de Dados:** SQL Server / MySQL
 - **Ferramentas:** Visual Studio, Git, GitHub
 
-## 📂 LógicaCsharp-PrimeirosPassos
-- Este é meu primeiro programa em C#. Ele exercita conceitos de entrada e saída de dados, variáveis, conversão de tipos (Parse), manipulação de datas e estruturas condicionais."
+## 📂 Projetos em Destaque
+- [Lógica C# - Primeiros Passos](https://github.com): Pequeno programa que calcula idade e valida maioridade, exercitando entrada de dados e estruturas condicionais.
+
 
 ## ✉️ Contato
 - LinkedIn: https://www.linkedin.com/in/felipe-teodoro-16225428b/
